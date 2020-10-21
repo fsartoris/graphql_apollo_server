@@ -8,9 +8,9 @@ Arme este backend para probar la funcionalidad de GraphQL y Mongo porque me pare
 - Apollo Server para soportar GraphQL (Schema (definicion), Resolvers (query, mutation)
 - JWT para usarlo con el front
 
-## Como funciona? 
+## Como funciona / Stack? 
 
-### Mongo
+### Mongo:
 Los modelos se definen dentro de la carpeta Models. En este caso son tres: Usuario, Reclamo y Tipo de Reclamo. Utiliza Mongoose como ORM.
 
 ### Apollo Server:
